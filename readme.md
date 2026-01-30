@@ -1,3 +1,5 @@
+# **UNFINISHED** 
+
 # MNIST Web Digit Recognizer (CNN)
 
 Este proyecto me ha servido para aprender a desarrollar una red neuronal que usando TensorFlow, entrenada en una máquina de Google Colab, pueda predecir un número.
